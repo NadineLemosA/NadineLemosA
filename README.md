@@ -13,13 +13,13 @@
 
 ## Hello, Devs!!
 
-Tenho 28 anos, sou de Porto Alegre/RS e estou iniciando nessa jornada louca de códigos. E, parafraseando a minha insporação para escrever essa apresentação, "sou criadora oficial de bugs". Todos os dias estudando, tentando, aprendendo e passando bastante raiva.!  :) ❤
+Tenho 28 anos, sou de Porto Alegre/RS e estou iniciando nessa jornada louca de códigos. E, parafraseando a minha insporação para escrever essa apresentação, "sou criadora oficial de bugs". Todos os dias estudando, tentando, aprendendo e passando bastante raiva.  :) ❤
 
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/typing-gif-21875085" width="350">
+  <img src="https://tenor.com/pt-BR/view/monkey-computer-angry-pissed-typing-gif-19954912" width="350">
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
-<img width="300px" align="right" src="https://i.ibb.co/zbTM5w7/photo-2021-12-23-11-04-06-removebg-preview-1.png">
+
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
