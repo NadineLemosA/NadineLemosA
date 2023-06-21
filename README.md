@@ -18,6 +18,13 @@ Tenho 28 anos, sou de Porto Alegre/RS e estou iniciando nessa jornada louca no m
 </p>
 <br>
 
+<a href="https://www.linkedin.com/in/nadinelemosa" alt="Linkedin" target="_blank">
+  <img src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nadinelemosa">
+</a>
+<a href="https://www.instagram.com/nadinelemos" alt="Instagram" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/nadinelemos">
+</a>
+
 <p align="center">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=nadinelemosa&show_icons=true&theme=neon&custom_title=My+GitHub+status&text_bold=false" alt="GitHub status" />
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadinelemosa&layout=compact&theme=neon&langs_count=8&custom_title=Most+used+languages" alt="Top Langs" />
