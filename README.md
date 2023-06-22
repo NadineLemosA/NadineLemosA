@@ -29,6 +29,6 @@ Tenho 28 anos, sou de Porto Alegre/RS e estou iniciando nessa jornada louca no m
 <br>
 
 <p align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=nadinelemosa&show_icons=true&theme=neon&custom_title=My+GitHub+status&text_bold=false" alt="GitHub status" />
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadinelemosa&layout=compact&theme=neon&langs_count=8&custom_title=Most+used+languages" alt="Top Langs" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nadinelemosa&show_icons=true&theme=neon&custom_title=My+GitHub+status&text_bold=false" alt="GitHub status" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadinelemosa&layout=compact&theme=neon&langs_count=8&custom_title=Most+used+languages" alt="Top Langs" />
 </p>
