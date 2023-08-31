@@ -1,5 +1,5 @@
 <div dsplay="inline-block">
- <h1 align="left">Oiee!!</h1>
+ <h1 align="left">Olá!!</h1>
 </div>
 
 Tenho 28 anos, sou de Porto Alegre/RS e estou iniciando nessa jornada louca no mundo dos códigos. E, parafraseando a jeniblodev, "sou criadora oficial de bugs". Todos os dias estudando, tentando, aprendendo e passando bastante raiva.  :) ❤
