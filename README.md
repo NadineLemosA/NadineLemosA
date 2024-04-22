@@ -25,6 +25,10 @@ Tenho 29 anos, sou de Porto Alegre/RS e estou iniciando nessa jornada louca no m
 <p align="center">
   <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java icon"/>
   <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github icon"/>
+  <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" />
+  <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" />
+          
 </p>
 <br>
 
