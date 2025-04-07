@@ -2,7 +2,7 @@
  <h1 align="left">Olá!!</h1>
 </div>
 
-Tenho 29 anos, sou de Porto Alegre/RS e estou nessa jornada louca no mundo dos códigos a um pouco mais de 2 anos. E, parafraseando a jeniblodev, "sou criadora oficial de bugs". Todos os dias estudando, tentando, aprendendo e passando bastante raiva.  :) ❤
+Tenho 30 anos, sou de Porto Alegre/RS e estou nessa jornada louca no mundo dos códigos a um pouco mais de 2 anos. E, parafraseando a jeniblodev, "sou criadora oficial de bugs". Todos os dias estudando, tentando, aprendendo e passando bastante raiva.  :) ❤
 
 <p align="center">
   <img src="https://media.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif" width="350">
